@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReNameTool", "ReNameTool\ReNameTool.vcproj", "{8C0E8F9C-3E93-4491-AF14-E16A6C8CF5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C0E8F9C-3E93-4491-AF14-E16A6C8CF5AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C0E8F9C-3E93-4491-AF14-E16A6C8CF5AB}.Debug|Win32.Build.0 = Debug|Win32
+		{8C0E8F9C-3E93-4491-AF14-E16A6C8CF5AB}.Release|Win32.ActiveCfg = Release|Win32
+		{8C0E8F9C-3E93-4491-AF14-E16A6C8CF5AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
